@@ -1,0 +1,39 @@
+body, html
+{
+    width: 1012px;
+    margin: auto;
+}
+
+.header
+{
+   
+    font-size: 40px;
+    margin-top: 3%;
+    border-bottom: 1px solid rgb(186, 178, 178);
+}
+.header a
+{
+    color: #0366d6;
+    text-decoration: none;
+}
+.header a:hover
+{
+    text-decoration: underline;
+}
+.contact h1
+{
+    border-bottom: 1px solid rgb(186, 178, 178);
+}
+#gh :hover
+{
+    text-decoration: underline;
+}
+
+.aboutme h1
+{
+    border-bottom: 1px solid rgb(186, 178, 178);
+}
+.exp
+{
+    border-bottom: 1px solid rgb(186, 178, 178);
+}
